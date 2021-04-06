@@ -4,7 +4,7 @@
 
 import java.util.*;
 
-public class Fibonacci {
+public class Excersice3_1 {
 
 	static int fib(int n)
 	{
